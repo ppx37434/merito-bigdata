@@ -1,2 +1,3 @@
 # merito-bigdata
-Hello World!
+Conflict
+kolejna zmiana
